@@ -32,7 +32,7 @@ class KeywordDensityChecker {
 		$this->plugin_version = '1.1.2';
 		$this->plugin_dir = basename (dirname (__FILE__));
 		// language file
-		load_plugin_textdomain ('keyword-density-checker', 'wp-content/plugins/' . $this->plugin_dir);
+		load_plugin_textdomain ('keyword-density-checker');
 		if (is_admin ()) {
 			add_action ('admin_init', array ($this, 'init_settings'));
 		}
