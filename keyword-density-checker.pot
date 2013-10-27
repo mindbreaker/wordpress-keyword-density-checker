@@ -1,0 +1,216 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-19 17:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: keyword-density-checker.php:176
+msgid "Language"
+msgstr ""
+
+#: keyword-density-checker.php:199 keyword-density-checker.php:331
+msgid "Filter stopwords"
+msgstr ""
+
+#: keyword-density-checker.php:203
+msgid "Show first"
+msgstr ""
+
+#: keyword-density-checker.php:208 keyword-density-checker.php:382
+msgid "Update"
+msgstr ""
+
+#: keyword-density-checker.php:221 keyword-density-checker.php:230
+#: keyword-density-checker.php:231 keyword-density-checker.php:242
+#: keyword-density-checker.php:244 keyword-density-checker.php:303
+msgid "Keyword Density Checker"
+msgstr ""
+
+#: keyword-density-checker.php:253
+msgid "Nonce verification failed:"
+msgstr ""
+
+#: keyword-density-checker.php:253
+msgid "Error while attempting to save plugin configuration!"
+msgstr ""
+
+#: keyword-density-checker.php:298
+msgid "Options saved."
+msgstr ""
+
+#: keyword-density-checker.php:300
+msgid "Options not saved"
+msgstr ""
+
+#: keyword-density-checker.php:308
+msgid ""
+"With these options you can configure the keyword density checker. You can "
+"set a stopwords filter and in which iterval the statistics will be "
+"generated. These settings are affecting the statistics shown at edit page/"
+"post only."
+msgstr ""
+
+#: keyword-density-checker.php:310
+msgid "Default language"
+msgstr ""
+
+#: keyword-density-checker.php:327
+msgid "Default language for filtering stopwords"
+msgstr ""
+
+#: keyword-density-checker.php:334
+msgid ""
+"Activate the stopword-filter by default when post/page-editor will be opened"
+msgstr ""
+
+#: keyword-density-checker.php:338
+msgid "Items in keyword lists"
+msgstr ""
+
+#: keyword-density-checker.php:343
+msgid "Display this number of the most common keywords / key-phrases"
+msgstr ""
+
+#: keyword-density-checker.php:347
+msgid "Automatic Update"
+msgstr ""
+
+#: keyword-density-checker.php:350
+msgid ""
+"Should the statistics refresh automatically? Turn off this option, if you "
+"have got slow JavaScript-Performance and use the button in the various edit-"
+"views instead!"
+msgstr ""
+
+#: keyword-density-checker.php:351
+msgid "every"
+msgstr ""
+
+#: keyword-density-checker.php:353
+msgid "seconds"
+msgstr ""
+
+#: keyword-density-checker.php:354
+msgid "Number of seconds between the updates"
+msgstr ""
+
+#: keyword-density-checker.php:358
+msgid "Minimum number of words per post or page"
+msgstr ""
+
+#: keyword-density-checker.php:363
+msgid ""
+"If there is no content it doesn't make sense to generate meta informations "
+"from it. Here you can set the minimum number of words in a post or page that "
+"should be reached before keywords and description meta will be generated."
+msgstr ""
+
+#: keyword-density-checker.php:367
+msgid "Keyword Phrases"
+msgstr ""
+
+#: keyword-density-checker.php:369
+msgid "show 2-word phrases"
+msgstr ""
+
+#: keyword-density-checker.php:370
+msgid "show 3-word phrases"
+msgstr ""
+
+#: keyword-density-checker.php:371
+msgid ""
+"Switching on or off statistics for 2- and 3-word phrases (if your browser's "
+"JavaScript-Engine ist too slow and it is disturbing while writing)"
+msgstr ""
+
+#: keyword-density-checker.php:375
+msgid "Authors can"
+msgstr ""
+
+#: keyword-density-checker.php:377
+msgid "change the content language"
+msgstr ""
+
+#: keyword-density-checker.php:378
+msgid "switch status of the stopwords-filter"
+msgstr ""
+
+#: keyword-density-checker.php:425
+msgid "Text Statistics"
+msgstr ""
+
+#: keyword-density-checker.php:427
+msgid "Total Words with / without Stopwords"
+msgstr ""
+
+#: keyword-density-checker.php:427
+msgid "Total Words"
+msgstr ""
+
+#: keyword-density-checker.php:427
+msgid "Different Words with / without Stopwords"
+msgstr ""
+
+#: keyword-density-checker.php:427
+msgid "Different Words"
+msgstr ""
+
+#: keyword-density-checker.php:427
+msgid "Stopwords"
+msgstr ""
+
+#: keyword-density-checker.php:433
+msgid "Meta Keywords Suggestion"
+msgstr ""
+
+#: keyword-density-checker.php:468
+msgid "Single Words"
+msgstr ""
+
+#: keyword-density-checker.php:468
+msgid "2 Word Phrases"
+msgstr ""
+
+#: keyword-density-checker.php:468
+msgid "3 Word Phrases"
+msgstr ""
+
+#: keyword-density-checker.php:469
+msgid "Count"
+msgstr ""
+
+#: keyword-density-checker.php:469
+msgid "Density"
+msgstr ""
+
+#: keyword-density-checker.php:469
+msgid "Keyword / Phrase"
+msgstr ""
+
+#: keyword-density-checker.php:470
+msgid "Total / Different"
+msgstr ""
+
+#: keyword-density-checker.php:480
+msgid "No single keywords found"
+msgstr ""
+
+#: keyword-density-checker.php:480
+msgid "No 2-word phrases found"
+msgstr ""
+
+#: keyword-density-checker.php:480
+msgid "No 3-word phrases found"
+msgstr ""
